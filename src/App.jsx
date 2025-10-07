@@ -22,7 +22,7 @@ function App() {
           <div className="divider"></div>
           <p>Where Green Meets Serenity</p>
          
-          <button className="get-started-button" onClick={handleGetStartedClick}>
+      
             Get Started
           </button>
          </div>
